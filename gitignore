@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code project settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Cache and logs
+*.log
+*.sqlite3
+*.db
+*.bak
+
+# Pytest cache
+.pytest_cache/
+
+# Git and build files
+*.swp
+*.swo
+*.orig
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Vault artifacts (optional, if you want to exclude large or generated PDFs later)
+*.pdf
+
+# Node/npm junk (in case added later)
+node_modules/
+
+# Backup / temp files
+*~
+*.tmp
+*.old
