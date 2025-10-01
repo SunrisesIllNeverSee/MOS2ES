@@ -44,3 +44,5 @@ node_modules/
 *~
 *.tmp
 *.old
+
+Add .gitignore to clean system and build files
