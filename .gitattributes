@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
+# Normalize text files to LF
 * text=auto
+
+# Explicitly mark binaries (don't diff/compress)
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
+
+# (Optional) Treat markdown as text
+*.md text
+*.txt text
