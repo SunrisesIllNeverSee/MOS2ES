@@ -1,0 +1,14 @@
+{
+  "artifacts": {
+    "A-0001": {
+      "path": "artifacts/A-0001",
+      "title": "Placeholder Artifact",
+      "files": [
+        "artifact.md",
+        "figure.png",
+        "notes.txt",
+        "hash.txt"
+      ]
+    }
+  }
+}

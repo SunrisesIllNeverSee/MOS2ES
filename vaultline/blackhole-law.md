@@ -1,0 +1,3 @@
+# Blackhole Law
+
+[Placeholder content]
