@@ -7,8 +7,8 @@ The **Stability Test** is a runnable artifact that calculates two key metrics:
 ---
 
 ## Contents
-- `A-0001_StabilityTest.py` — Python script (main test).  
-- `A-0001_StabilityTest.csv` — sample dataset (tech vs. civilization values).  
+- `S-0001_StabilityTest.py` — Python script (main test).  
+- `S-0001_StabilityTest.csv` — sample dataset (tech vs. civilization values).  
 
 ---
 
