@@ -4,6 +4,8 @@
 
 This repository contains a formal response to the article _"The Cost of Cloud, a Trillion Dollar Paradox"_ by Sarah Wang and Martin Casado (Andreessen Horowitz). Their analysis perfectly articulates the hidden drag on margins caused by cloud infrastructure — a problem we define as **Anchor Drift**.
 
+https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/
+
 Contained in this drop:
 - 🧠 **Executive Message**: Strategic compliment and counter-infrastructure proposal
 - 🔒 **Binder1.pdf**: The full payload (memo, architecture overview, legal notice)
