@@ -1,0 +1,23 @@
+{
+  "artifact": "MOS2ES Pitch Deck",
+  "version": "1.0.0",
+  "author": "Deric J. McHenry | ElloCello LLC",
+  "copyright": "© 2025 Deric J. McHenry | ElloCello LLC — Proprietary Use License v0.1",
+  "files": [
+    {
+      "name": "MOS2ESQD.pdf",
+      "sha256": "ab198ab827e6cf8d246f3f9f4b3c20dcfd309298a52afc88cb3b8393aae0e6ca  ",
+      "title": "MO§ES™ Quickdeck v1",
+      "subject": "Investor-facing deck describing MOS²ES system",
+      "keywords": ["MOS²ES", "pitchdeck", "investor", "signal economy", "ElloCello"]
+    },
+    {
+      "name": "MOS²ES_Silos-2.pdf",
+      "sha256": "26b05f9e32dd9c1cf5531bd9f22acb6a57327bb1ff3eb7fef4ef6b31d795e293 ",
+      "title": "MOS²ES™ Pitch Deck v2",
+      "subject": "Updated investor-facing deck with revised structure",
+      "keywords": ["MOS²ES", "pitchdeck", "investor", "signal economy", "ElloCello"]
+    }
+  ],
+  "last_updated": "2025-09-24"
+}
