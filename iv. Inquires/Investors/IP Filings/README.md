@@ -56,16 +56,13 @@ All three designate the same architecture under U.S. Trademark law (IC 042).
 
 ---
 
-## 🧭 Strategic Readiness  
-MO§ES™ is now positioned for:  
-- Investor communication  
-- Enterprise licensing agreements  
-- Digital signature propagation  
-- Signal Economy validation and rollout
-
 ---
-© 2025 ElloCello LLC  
-Proprietary Use License v0.1 — Public-facing proof only.  
+INTELLECTUAL PROPERTY NOTICE
+MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
+All systems, methods, and written material contained herein are protected under applicable copyright law 
+and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
 
-Contact: burnmydays@proton.me
-
+© 2025 Ello Cello LLC. All rights reserved. 
+Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
+system architecture or terminology, is strictly prohibited and may result in legal action.
+---
