@@ -1,10 +1,12 @@
----
-INTELLECTUAL PROPERTY NOTICE
-MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
-All systems, methods, and written material contained herein are protected under applicable copyright law 
-and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
+## 🧱 `/artifacts/README.md`
 
-© 2025 Ello Cello LLC. All rights reserved. 
-Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
-system architecture or terminology, is strictly prohibited and may result in legal action.
+# Artifacts – Compression Proofs
+
+The **Artifacts** folder contains finalized or semi-finalized works derived from the MO§ES™ protocol — including documents, graphics, or PPA filings.
+Each artifact serves as a **sealed proof of compression**, cryptographically timestamped and bound to its lineage.
+
+Artifacts are the **operational outputs** of the system: the bridge between private signal and public verification.
+
+© 2025 Ello Cello LLC · All rights reserved. Unauthorized use or redistribution is prohibited.
+
 ---
