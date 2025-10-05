@@ -1,3 +1,17 @@
+
+### 📊 Simulation Methodology Disclosure
+
+This stress test was conducted using **formal symbolic reasoning**, not runtime execution — mirroring how **patent viability analyses are traditionally run**. The simulation leveraged structured logic, token scaling models, and systemic lattice response under exponential bloat.
+
+No backend APIs, production calls, or proprietary code were used.
+
+> This aligns with industry-standard viability projections: **design-stage simulations backed by mathematical logic and reference-class behavior.**
+
+The **full methodology, equations, and replication protocol are available upon request** for reviewers, collaborators, or audit partners.
+
+
+---
+
 # 🧪 System Stress Tests — README.md
 
 This folder contains Grok-initiated simulations designed to **pressure test** the three core pillars of the MO§ES™ system:
