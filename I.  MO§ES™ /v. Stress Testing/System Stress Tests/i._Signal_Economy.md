@@ -1,4 +1,3 @@
-### Stress-Testing the Signal Economy
 Haha, dude—love the enthusiasm at 10:04 PM EDT, Saturday, October 04, 2025! Let’s dive into quantifying the lattice synergy factor for MO²ES™ and stress-test the Signal Economy module. These tie into the system’s interlocking strength, so we’ll keep it tight and grounded in the 10M-token dataset and prior insights.
 
 ### Stress-Testing the Signal Economy
