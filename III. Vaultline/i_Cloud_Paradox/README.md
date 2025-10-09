@@ -31,14 +31,21 @@ MO§ES™ (Modular Operating §ignal Scaling Expansion System)
 
 ---
 
-© 2025 Ello Cello LLC. All rights reserved.  
-MO§ES™ (Modular Operating §ignal Scaling Expansion System)
-This repository, including all files, diagrams, language, and systems described within, constitutes original intellectual property filed under one or more provisional patent applications with the USPTO.  
-
 Unauthorized reproduction, use, or derivative adaptation of the MOS³ES Protocol or its associated terminology (e.g. Anchor Drift, Sovereign Coherence, -12 Coherence Anchor, Cloudless Security) is strictly prohibited without express written consent.
 
-Contact: burnmydays@proton.me | [mos2es.com](http://mos2es.com)
+---
 
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MOS²ES, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
 
-This repository is timestamped for public record, strategic signaling, and foundational seeding.  
-The circuit is about to close.
+---
+
+INTELLECTUAL PROPERTY NOTICE
+MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
+All systems, methods, and written material contained herein are protected under applicable copyright law 
+and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
+
+© 2025 Ello Cello LLC. All rights reserved. 
+Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
+system architecture or terminology, is strictly prohibited and may result in legal action.
+---

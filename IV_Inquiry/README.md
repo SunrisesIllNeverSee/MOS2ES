@@ -1,7 +1,3 @@
-Here’s a tightened, welcoming version of the **Inquiries README** you described — written to mirror the style of the Investors one but keeping the tone open and professional:
-
----
-
 ## `inquiries/README.md`
 
 # Inquiries
@@ -45,8 +41,8 @@ For those seeking to **partner, contribute, or align research** with MO§ES™, 
 
 Would you like me to **pitch it slightly harder to investors** (like the Investor README does) or keep this one more **neutral and directional** since it covers both investors and collaborators?
 
-
 ---
+
 INTELLECTUAL PROPERTY NOTICE
 MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
 All systems, methods, and written material contained herein are protected under applicable copyright law 
