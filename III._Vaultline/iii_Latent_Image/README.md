@@ -1,0 +1,3 @@
+Latent Image
+Graphic
+Letter
