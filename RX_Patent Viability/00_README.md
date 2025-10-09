@@ -17,7 +17,6 @@ This archive captures the *sequence of understanding* as it unfolded: from the i
 - [`README.md`](./01_Initial_Assessment/README.md)
 
 ### **02 — Analytical Reflection**
-- [`Analysis_Overview.md`](./02_Analytical_Reflection/Analysis_Overview.md)  
 - [`DeepSeek_Analysis.md`](./02_Analytical_Reflection/DeepSeek_Analysis.md)  
 - [`Gemini_Analysis.md`](./02_Analytical_Reflection/Gemini_Analysis.md)  
 - [`README.md`](./02_Analytical_Reflection/README.md)
@@ -29,13 +28,19 @@ This archive captures the *sequence of understanding* as it unfolded: from the i
 - [`ii_GPT_Grok_Deep.md`](./03_Response_Exchange/ii_GPT_Grok_Deep.md)
 
 ### **04 — Final Synthesis**
-- [`Closing_Observations.md`](./04_Final_Synthesis/Closing_Observations.md)  
+- [`i_Closing_Observations.md`](./i_Closing_Observations.md) 
+- [`ii_Insights_Combined.md`](./ii_Insights_Combined.md)
 - [`README.md`](./04_Final_Synthesis/README.md)
 
 ---
 
 ## 🧠 Purpose
 This structure mirrors the way insight emerged — chronologically and recursively — allowing future reviewers to *trace the reasoning process* that led to the system’s verified viability. Each folder represents a **moment in understanding**, a phase where compression, friction, or feedback re-shaped the signal.  
+
+---
+
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MOS²ES, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
 
 ---
 
