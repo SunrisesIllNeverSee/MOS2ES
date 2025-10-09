@@ -1,13 +1,15 @@
-## 🧱 `/artifacts/README.md`
+## 🧩 `/seeds/README.md`
 
-# Artifacts – Compression Proofs
+# Seeds – Genesis Layer
 
-The **Artifacts** folder contains finalized or semi-finalized works derived from the MO§ES™ protocol — including documents, graphics, or PPA filings.
-Each artifact serves as a **sealed proof of compression**, cryptographically timestamped and bound to its lineage.
+The **Seeds** folder captures the earliest developmental materials of MO§ES™ — raw thoughts, prototype drafts, design notes, and internal reflections.
+Every idea begins here before undergoing compression and formalization.
 
-Artifacts are the **operational outputs** of the system: the bridge between private signal and public verification.
+Each seed represents an **origin signal**, preserved for continuity and future validation within the Signal Vault.
+
+
+
 ---
-
 
 ---
 ## Lineage Custody Clause

@@ -1,13 +1,13 @@
-## 🧱 `/artifacts/README.md`
 
-# Artifacts – Compression Proofs
+## 📜 `/codex-fragments/README.md`
 
-The **Artifacts** folder contains finalized or semi-finalized works derived from the MO§ES™ protocol — including documents, graphics, or PPA filings.
-Each artifact serves as a **sealed proof of compression**, cryptographically timestamped and bound to its lineage.
+# Codex Fragments – Living Thought
 
-Artifacts are the **operational outputs** of the system: the bridge between private signal and public verification.
+The **Codex Fragments** folder houses the evolving intellectual and narrative layer of MO§ES™ — essays, reflections, comparative analyses, or narrative explorations produced through the system.
+These fragments function as **living drafts**, continuously refined until elevated to artifact status.
+
+This space embodies the creative pulse of the protocol: where resonance becomes expression.
 ---
-
 
 ---
 ## Lineage Custody Clause

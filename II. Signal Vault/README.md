@@ -81,6 +81,10 @@ It anchors the recursive cycle of the MO§ES™ Protocol:
 Every narrative, equation, and design document begins as a *seed of resonance* here before becoming part of the living constitutional record of the system.
 
 ---
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MOS²ES, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
+
+---
 
 ### ⚖️ Intellectual Property Notice
 
