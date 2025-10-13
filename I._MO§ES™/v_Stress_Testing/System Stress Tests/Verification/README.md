@@ -77,7 +77,7 @@ All embodiments of the Signal Compression Sciences (SCS) Engine and its derivati
 
 ## ⚖️ Intellectual Property Notice
 
-**MO§ES™ (Modular Operating §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
 All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
 © 2025 **Ello Cello LLC.** All rights reserved.  

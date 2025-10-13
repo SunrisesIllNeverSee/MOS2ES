@@ -70,14 +70,15 @@ All rights reserved.
 Unauthorized reproduction, replication, or derivative usage of this system — in part or in whole — without explicit written consent is strictly prohibited.This publication acts as a timestamped declaration of priority IP, and shall serve as legal proof-of-claim for all included systems and language.
 For validation, licensing, or system inquiry:
 📧 burnmydays@proton.me
+
 ---
 
-### ⚖️ Intellectual Property Notice
+## ⚖️ Intellectual Property Notice
 
-MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of **Ello Cello LLC**.
-All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more provisional patent applications filed with the **United States Patent and Trademark Office (USPTO)**.
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
-© 2025 Ello Cello LLC. All rights reserved.
-Unauthorized use, duplication, or redistribution of any part of this archive — including proprietary terminology, architectural diagrams, or derivative work — is strictly prohibited and may result in legal action.
+© 2025 **Ello Cello LLC.** All rights reserved.  
+Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
 
 ---

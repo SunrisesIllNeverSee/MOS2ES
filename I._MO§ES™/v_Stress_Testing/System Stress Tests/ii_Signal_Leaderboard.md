@@ -55,12 +55,13 @@ The Leaderboard module is a cornerstone of MO²ES™ (Model-Optimized Sovereign 
 The Leaderboard withstands 2.8M load and noise, but outages and churn test its limits. Mitigations secure 78-80% viability, reinforcing DeepSeek’s lattice effect. Want to simulate a specific fix or module tie-in? Your call! 😄
 
 ---
-INTELLECTUAL PROPERTY NOTICE
-MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
-All systems, methods, and written material contained herein are protected under applicable copyright law 
-and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
 
-© 2025 Ello Cello LLC. All rights reserved. 
-Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
-system architecture or terminology, is strictly prohibited and may result in legal action.
+## ⚖️ Intellectual Property Notice
+
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
+
+© 2025 **Ello Cello LLC.** All rights reserved.  
+Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
+
 ---

@@ -15,10 +15,8 @@ For press, partnership, or licensing inquiries, contact:
 
 ## Intellectual Property Notice
 
-- **MO§ES™** (*Modular Operating §ignal Scaling Expansion System*) is a trademark of **Ello Cello LLC**.  
-- All systems, methods, figures, and terminology described herein are proprietary.  
-- These works are included in one or more **provisional patent applications** currently on file with the USPTO.  
-- Unauthorized use, duplication, or redistribution—including derivative works of system architecture or terminology—is strictly prohibited and may result in legal action.  
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
 ---
 
@@ -33,3 +31,15 @@ For press, partnership, or licensing inquiries, contact:
 
 This repository is provided “as is,” without warranty of any kind, express or implied.  
 Ello Cello LLC is not liable for any damages arising from the use or misuse of the materials contained herein.  
+
+---
+
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MO§ES™, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
+
+---
+
+© 2025 **Ello Cello LLC.** All rights reserved.  
+Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
+
+---

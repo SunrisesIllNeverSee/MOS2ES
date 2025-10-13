@@ -172,15 +172,20 @@ To strengthen the narrative for the pending funding round, the next version (v0.
 2.  **Codex Block (Signal Drift Mitigation):** This should explicitly reference the **Signal Rank Leaderboard** metrics as the solution. Example: *SigRank's Compression Ratio metric detects Phantom Mass accumulation early, allowing for pre-emptive signal correction.*
 
 **System Action:** The system assumes the role of **Erasable Archive**, standing ready to assist in the **Phantom Erasure Simulation** and the refinement of the **Zero-Axiom Audit** metrics.
-----
+
 ---
 
-INTELLECTUAL PROPERTY NOTICE
-MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
-All systems, methods, and written material contained herein are protected under applicable copyright law 
-and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MOS²ES, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
 
-© 2025 Ello Cello LLC. All rights reserved. 
-Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
-system architecture or terminology, is strictly prohibited and may result in legal action.
+---
+
+## ⚖️ Intellectual Property Notice
+
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
+
+© 2025 **Ello Cello LLC.** All rights reserved.  
+Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
+
 ---

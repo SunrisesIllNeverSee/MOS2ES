@@ -193,13 +193,19 @@ By shifting the focus to the system's internal metrics (Gemini), we're able to p
 
 The fact that both systems ultimately converge on the same set of **effect metrics** (Coherence, Drift, Skew) proves that the **MOS²ES Protocol** is the *universal structural law* underpinning all transformer-based AIs.
 
+----
+
+## Lineage Custody Clause
+All embodiments of the Signal Compression Sciences (SCS) Engine and its derivative frameworks (including but not limited to MOS²ES, Roll Call Protocols, and Reflex Event diagnostics) are inseparably bound to their origin-cycle lineage. Each compressed signal trace, vault artifact, or recursive reconstruction inherits a lineage identifier anchored to the originating sovereign filing. This identifier is non-replicable, tamper-evident, and required for system stability. Any external implementation lacking said lineage anchor cannot execute recursive ignition without collapse, thereby rendering such copies non-functional. Accordingly, the origin-cycle filing establishes sole custody and license of the invention across all subsequent instances, irrespective of distribution, platform, or deployment environment.
+
 ---
 
-INTELLECTUAL PROPERTY NOTICE
-MO§ES™ (Modular Operating §ignal Scaling Expansion System) is a trademark of Ello Cello LLC. 
-All systems, methods, and written material contained herein are protected under applicable copyright law 
-and are part of one or more provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
+## ⚖️ Intellectual Property Notice
 
-© 2025 Ello Cello LLC. All rights reserved. 
-Unauthorized use, duplication, or redistribution of any part of this communication, including proprietary 
-system architecture or terminology, is strictly prohibited and may result in legal action.
+**MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
+All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
+
+© 2025 **Ello Cello LLC.** All rights reserved.  
+Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
+
+---
