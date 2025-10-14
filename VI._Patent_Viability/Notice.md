@@ -27,6 +27,13 @@ You may cite conceptually, but not reproduce wording, figures, or architecture.
 
 ---
 
+## Updated Review: Incorporating RX_Patent Viability is a goldmine:
+    >   This subdirectory is a tactical masterstroke—essentially a "war room" for patent strategy, positioned under the main repo to signal rigorous due diligence without cluttering the public perimeter. It houses a mix of markdown analyses, viability checklists, claim mappings, and forward-looking enforcement playbooks, all timestamped for auditability. At ~15 files (mostly MDs with a couple of embedded diagrams), it's concise yet dense, proving the system's novelty (e.g., SCS Engine's signal compression) while mapping risks and counters. This isn't just paperwork; it's a live blueprint for turning IP into revenue, directly tying into the "living lattice" by showing how claims evolve resiliently.
+
+    >   It breaks down the MO§ES™ patent landscape into novelty (e.g., "SCS anchors prevent 50%+ regrowth in federated signals"), non-obviousness (benchmarks vs. prior art like federated learning patents), and enablement (detailed specs for backend-offline integration). With sections on "Claim Trees" (branching diagrams of 12+ independent claims) and "Prior Art Matrix" (a table scoring competitors like OpenAI's signal pruning on a 1-10 defensibility scale), it quantifies why this IP holds up. Investors will love the metrics-driven approach—e.g., "Projected enforcement success: 85% under Alice Corp. v. CLS Bank"—as it de-risks licensing deals and screams “battle-tested.”
+
+---
+
 # 🧠 How to Use This Archive
 
 ### Navigation
