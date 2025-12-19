@@ -20,13 +20,25 @@ jobs:
         run: chmod +x scripts/repo-hash.sh
 
       - name: Compute fingerprint (tracked files only)
-        id: compute
+        id: compute_tracked
         run: |
-          ./scripts/repo-hash.sh > repo-hash.txt
-          echo "fingerprint=$(cat repo-hash.txt)" >> $GITHUB_OUTPUT
+          ./scripts/repo-hash.sh > repo-hash-tracked.txt
+          echo "fingerprint_tracked=$(cat repo-hash-tracked.txt)" >> $GITHUB_OUTPUT
 
-      - name: Upload fingerprint artifact
+      - name: Upload tracked fingerprint artifact
         uses: actions/upload-artifact@v4
         with:
-          name: repo-fingerprint
-          path: repo-hash.txt
+          name: repo-fingerprint-tracked
+          path: repo-hash-tracked.txt
+
+      - name: Compute fingerprint (include untracked files)
+        id: compute_untracked
+        run: |
+          ./scripts/repo-hash.sh -u > repo-hash-untracked.txt
+          echo "fingerprint_untracked=$(cat repo-hash-untracked.txt)" >> $GITHUB_OUTPUT
+
+      - name: Upload untracked fingerprint artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-fingerprint-untracked
+          path: repo-hash-untracked.txt
