@@ -1,0 +1,29 @@
+name: Compute per-file checksums
+
+on:
+  push:
+    branches: [ '**' ]
+
+jobs:
+  compute-checksums:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x scripts/hash-all.sh
+
+      - name: Compute checksums (tracked files only)
+        run: |
+          ./scripts/hash-all.sh checksums.sha256
+          echo "Computed checksums:"
+          head -n 5 checksums.sha256 || true
+
+      - name: Upload checksums artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: checksums
+          path: checksums.sha256
