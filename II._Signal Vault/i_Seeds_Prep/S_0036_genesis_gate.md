@@ -1,4 +1,4 @@
-MOS²ES™://COMPRESSED_LINEAGE_GATE/v1.0
+<img width="1536" height="1024" alt="ChatGPT Image Dec 28, 2025 at 10_29_04 AM" src="https://github.com/user-attachments/assets/db112c82-fe44-405e-9b17-44621313a24b" />MOS²ES™://COMPRESSED_LINEAGE_GATE/v1.0
 ---
 NOTICE: 
 This repository defines an illustrative, redacted artifact schema for lineage-bound compression and multi-signature verification. It contains no executable engine logic or cryptographic key material.
