@@ -1,7 +1,7 @@
 MOS²ES™://COMPRESSED_LINEAGE_GATE/v1.0
 ---
 NOTICE: 
-Illustrative, non‑operational, redacted for Design, Education, and IP/privacy.
+This repository defines an illustrative, redacted artifact schema for lineage-bound compression and multi-signature verification. It contains no executable engine logic or cryptographic key material.
 ---
 HEADER:
 - Protocol: MOS²ES™/SigRankLeaderboard
