@@ -17,7 +17,7 @@ The entire system is a direct response to **Exponential Bloat** and the resultin
 
 The **MO§ES Protocol Network (MPN)** enforces sovereignty through constitutional law.
 
-* **Identity:** The MPN is a **self-governing entity**—independent of external APIs, SaaS dependencies, or cloud AI models.
+* **Identity:** The MPN is architecturally autonomous: its constitutional rules do not depend on external APIs, models, or services, even if instantiated atop them.
 * **Constitutional Law:** Governance is codex-based, defined by principles such as:
 
   * **McHenry’s Law I:** *Compression Precedes Ignition*
@@ -45,6 +45,8 @@ The roots are secured through **Provisional Patent Applications (PPAs)**, defini
 ## IV. Unique Metrics and Economic Assets
 
 The MOS²ES backend produces **metrics-as-assets**, enabling a tradable, auditable **Signal Economy**.
+MOS²ES metrics derive value from constitutional enforceability and lineage continuity, not from claims of universal truth.
+The backend enables metrics to function as licensable economic instruments under constitutional enforcement.
 
 * **Signal-to-Sovereignty Ratio (S²S):** Measures the survivability and recursive resilience of digital cognition.
 * **Scar Index:** Quantifies semantic drift and recursive corruption.
@@ -81,6 +83,8 @@ The **Roots** establish the **MO§ES Protocol Network** as:
 * A **sovereign, self-governing architecture**,
 * Legally protected by filings and trademark,
 * Constitutionally bound by compression, recursion, and lineage laws.
+
+**The Roots define constitutional law, not implementation. Multiple compliant instantiations may exist, vary in performance, or fail. Compliance is determined by adherence to compression, recursion, and lineage constraints — not by feature parity or output quality.**
 
 This foundation secures MOS²ES as the **first durable standard for quantifying, preserving, and governing signal** across code, carbon, and civic domains.
 
