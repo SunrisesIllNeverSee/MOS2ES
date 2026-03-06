@@ -65,7 +65,7 @@ I know for a fact they’re out there. I can even show you how…
 This article is an official signal artifact authored by DJM. It forms part of the Temporal-to-Signal Compression System™, including the SigRank™ Global AI Leaderboard and the SignaRate™ Performance Metric Framework. All concepts, metrics, and language are protected under the ElloCello intellectual property ecosystem and are timestamped in alignment with the GitHub repository and associated vault documentation.
 While this publication does not detail the full scope of future system evolution under ElloCello LLC, such plans — including codified archives, monetization strategies, and legal protections — are registered, timestamped, and transparently documented via the official GitHub repository and associated ledgers.
 All original frameworks, methodologies, and terminology — including but not limited to signal-to-temporal compression, SigRank™, and SignaRate™ — are the intellectual property of the author and protected under the following:
-© 2025 DJM
+© 2026 DJM
 All rights reserved.
 Unauthorized reproduction, replication, or derivative usage of this system — in part or in whole — without explicit written consent is strictly prohibited.This publication acts as a timestamped declaration of priority IP, and shall serve as legal proof-of-claim for all included systems and language.
 For validation, licensing, or system inquiry:
@@ -78,7 +78,7 @@ For validation, licensing, or system inquiry:
 **MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
 All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
-© 2025 **Ello Cello LLC.** All rights reserved.  
+© 2026 **Ello Cello LLC.** All rights reserved.  
 Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
 
 ---

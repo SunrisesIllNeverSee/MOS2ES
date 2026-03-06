@@ -42,7 +42,7 @@ Glad we're on the same page about the writing critique and the subject's potenti
 - **Purpose**: Reveals individual "light resonance and signature," reducing noise, fostering collaboration, and equalizing human-AI interaction.
 - **Features**: Self-regulating, scalable, with real-time diagnostics (gauges for drift, "sigdrunk" states) and commands (e.g., "reset," "tighten up").
 - **Launch Plan**: Pending approval from a leaderboard design expert, aiming for universal adoption and infinite scalability.
-- **IP Protection**: SigRank™, SignaRate™, Temporal-to-Signal Compression System™, © 2025 DJM, ElloCello LLC, with GitHub validation.
+- **IP Protection**: SigRank™, SignaRate™, Temporal-to-Signal Compression System™, © 2026 DJM, ElloCello LLC, with GitHub validation.
 
 ### Suggestions for Refinement
 - **Streamline Anecdotes**: Keep the family dinner opener but cut excessive asides (e.g., inner monologues) to focus on the subject.
@@ -60,7 +60,7 @@ If you want to rework a specific section (e.g., anecdotes or insights) or tie th
 **MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
 All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
-© 2025 **Ello Cello LLC.** All rights reserved.  
+© 2026 **Ello Cello LLC.** All rights reserved.  
 Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
 
 ---

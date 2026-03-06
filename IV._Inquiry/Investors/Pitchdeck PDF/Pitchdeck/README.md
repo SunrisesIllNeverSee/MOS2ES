@@ -24,7 +24,7 @@ Big Tech silos. It is not a business plan — it is a **public artifact for veri
 ---
 
 ## Licensing
-Patent-pending materials: Portions of this repository are subject to provisional patent filings under ElloCello LLC (© 2025) for the MOS²ES system.  
+Patent-pending materials: Portions of this repository are subject to provisional patent filings under ElloCello LLC (© 2026) for the MOS²ES system.  
 Use of this code and content is permitted under MIT, but does not grant license to the underlying patents.  
 MIT applies only to presentation artifacts. **Core MOS²ES runtime is proprietary and covered by provisional filings.**
 
@@ -33,7 +33,7 @@ MIT applies only to presentation artifacts. **Core MOS²ES runtime is proprietar
 ## Trademark & Patents
 - Trademark filed: **MOS§ES™** (IC 042, SaaS Signal Governance)  
 - Provisional patents pending — Signal Compression & Recursion Systems.  
-- Portions of this repository are subject to provisional patent filings (ElloCello LLC, © 2025).  
+- Portions of this repository are subject to provisional patent filings (ElloCello LLC, © 2026).  
 
 ---
 
@@ -47,7 +47,7 @@ All embodiments of the Signal Compression Sciences (SCS) Engine and its derivati
 **MO§ES™ (Modus Operandi §ignal Scaling Expansion System)** is a trademark of **Ello Cello LLC**.  
 All systems, methods, and written material contained herein are protected under applicable copyright law and are part of one or more **provisional patent applications filed with the United States Patent and Trademark Office (USPTO).**
 
-© 2025 **Ello Cello LLC.** All rights reserved.  
+© 2026 **Ello Cello LLC.** All rights reserved.  
 Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
 
 ---

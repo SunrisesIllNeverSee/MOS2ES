@@ -2,7 +2,7 @@
 
 SPDX-License-Identifier: LicenseRef-MOSES-Proprietary  
 
-**Copyright © 2025 Ello Cello LLC. All rights reserved.**  
+**Copyright © 2026 Ello Cello LLC. All rights reserved.**  
 
 The **MO§ES™ Protocol** and all associated materials in this repository are protected under copyright law and provisional patent filings with the **United States Patent and Trademark Office (USPTO)**.  
 
@@ -32,4 +32,4 @@ For press, partnership, or licensing inquiries, contact:
 ## Disclaimer  
 
 This repository is provided “as is,” without warranty of any kind, express or implied.  
-© 2025 Ello Cello LLC is not liable for any damages arising from the use or misuse of the materials contained herein.  
+© 2026 Ello Cello LLC is not liable for any damages arising from the use or misuse of the materials contained herein.  

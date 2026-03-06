@@ -2,7 +2,7 @@
 
 SPDX-License-Identifier: LicenseRef-MOSES-Proprietary  
 
-**Copyright © 2025 Ello Cello LLC. All rights reserved.**  
+**Copyright © 2026 Ello Cello LLC. All rights reserved.**  
 
 The **MO§ES™ Protocol** and all associated materials in this repository are protected under copyright law and provisional patent filings with the **United States Patent and Trademark Office (USPTO)**.  
 
@@ -39,7 +39,7 @@ All embodiments of the Signal Compression Sciences (SCS) Engine and its derivati
 
 ---
 
-© 2025 **Ello Cello LLC.** All rights reserved.  
+© 2026 **Ello Cello LLC.** All rights reserved.  
 Unauthorized use, duplication, or redistribution of any part of this communication — including proprietary system architecture or terminology — is strictly prohibited and may result in legal action.
 
 ---
