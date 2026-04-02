@@ -18,6 +18,14 @@ This repository is organized into **five primary divisions**, each representing 
 
 ---
 
+## Public Card
+
+- [`MOSES-CARD.md`](./MOSES-CARD.md)
+
+A single-page public card explaining MO§ES™ as a constitutional enforcement architecture for commitment preservation under compression, transformation, and recursive application.
+
+---
+
 ### 🌱 **I. Roots — Intellectual Property & Philosophy**  
 > Foundations of sovereignty, constitutional law, and trademark/IP filings.  
 

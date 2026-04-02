@@ -8,6 +8,14 @@ It contains the foundational logic, backend mechanics, frontend expression layer
 
 ## 📂 Table of Contents  
 
+### **Public Card**
+- [`MOSES-CARD.md`](./MOSES-CARD.md)
+
+**Description:**  
+Single-page overview of MO§ES™ as sovereign signal governance, including the conservation law, Six Fold Flame, constitutional chapters, ontology, evidence, and applications.
+
+---
+
 ### **i. Roots & IP**
 - [`Overview.md`](./i_Roots_IP/Overview.md)
 
