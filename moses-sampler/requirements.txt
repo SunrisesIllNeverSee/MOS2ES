@@ -1,0 +1,5 @@
+# moses-sampler — scaffold dependencies
+# Only what the Gradio scaffold needs to boot. Each processor under
+# processors/ carries its own dependencies; those are intentionally NOT
+# pulled in here yet (nothing is wired).
+gradio
