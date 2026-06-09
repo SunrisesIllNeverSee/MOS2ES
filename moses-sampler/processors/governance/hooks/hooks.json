@@ -1,0 +1,76 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/prompt-submit.sh\""
+          }
+        ],
+        "description": "MO§ES™ governance injection — inject active governance state before prompt processing"
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/pre-execute.sh\""
+          }
+        ],
+        "description": "MO§ES™ enforcement — evaluate action against governance rules, block if prohibited"
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/pre-execute.sh\""
+          }
+        ],
+        "description": "MO§ES™ enforcement — verify file modifications comply with active governance"
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/post-execute.sh\"",
+            "async": true
+          }
+        ],
+        "description": "MO§ES™ audit — log tool action to cryptographic audit trail"
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/stop.sh\"",
+            "async": true
+          }
+        ],
+        "description": "MO§ES™ response audit — log response completion to audit trail"
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-start.sh\""
+          }
+        ],
+        "description": "MO§ES™ session restore — restore governance state from disk into context"
+      }
+    ]
+  }
+}
